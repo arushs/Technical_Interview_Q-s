@@ -1,6 +1,3 @@
-# Technical_Interview_Q-s
-Solutions to questions
-
 Technical Interview Questions
 =============================
 
